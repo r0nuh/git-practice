@@ -8,6 +8,8 @@ namespace GitPractice
     {
         public void PrintAge(int age)
         {
+            age = 31;
+
             Console.WriteLine(age);
         }
     }

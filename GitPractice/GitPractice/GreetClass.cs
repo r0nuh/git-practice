@@ -6,9 +6,9 @@ namespace GitPractice
 {
     class GreetClass
     {
-        public void Greet()
+        public void Greet(string exclamation)
         {
-            Console.WriteLine("Guten Tag Herr Müller");
+            Console.WriteLine("Greetings!");
             Console.ReadLine();
         }
     }

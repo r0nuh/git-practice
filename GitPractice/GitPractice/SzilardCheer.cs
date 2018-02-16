@@ -6,9 +6,9 @@ namespace GitPractice
 {
     class SzilardCheer
     {
-        public static void Cheer()
+        public static void Cheer(string team)
         {
-            Console.WriteLine("Chrysocolla!!!! With C# we will conquer the world!");
+            Console.WriteLine($"{team}!!!! With C# we will conquer the world!");
         }
     }
 }
