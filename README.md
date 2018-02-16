@@ -1,7 +1,7 @@
 # git-practice
 
-Adj egy esélyt, hogy megmutathassam, neked találtak ki engem.
+    Adj egy esélyt, hogy megmutathassam, neked találtak ki engem.
 
-J. C. Reed
+    J. C. Reed
 
     Szerelemvágy
