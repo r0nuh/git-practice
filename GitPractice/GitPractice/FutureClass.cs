@@ -10,6 +10,7 @@ namespace GitPractice
         {
             mood = "bad, bad, really, really bad!";
             Console.WriteLine("Your future looks like" + mood);
+
         }
     }
 }
