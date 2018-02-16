@@ -6,11 +6,11 @@ namespace GitPractice
 {
     class AgePrinter
     {
-        public void PrintAge(int age)
+        public void PrintAge(int month)
         {
-            age = 31;
+            month = 9;
 
-            Console.WriteLine(age);
+            Console.WriteLine(month);
         }
     }
 }
