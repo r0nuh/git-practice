@@ -8,8 +8,7 @@ namespace GitPractice
     {
         public void Cheer(string teamName)
         {
-            teamName = "Chrysocolla";
-            Console.WriteLine("Hi {0} Team!", teamName);
+            Console.WriteLine("Hi {0} Team! With C# we will conquer the world!", teamName);
         }
     }
 }
