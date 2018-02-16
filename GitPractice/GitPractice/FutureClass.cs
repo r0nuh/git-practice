@@ -6,13 +6,18 @@ namespace GitPractice
 {
     class FutureClass
     {
-        public void Future(string horoscope)
+
+        public void Future(string horoscope, bool isItTrue)
         {
-
-            Console.WriteLine($"My chinese horoscope is {horoscope}");
-
             horoscope = "Sagittarius";
-            Console.WriteLine(horoscope);
+            Console.WriteLine("My horoscope is: " + horoscope + " and it's: " + isItTrue);
+
+        public void Future(string mood)
+        {
+            mood = "bad, bad, really, really bad!";
+            Console.WriteLine("Your future looks like" + mood);
+
+
         }
     }
 }
