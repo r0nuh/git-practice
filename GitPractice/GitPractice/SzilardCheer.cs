@@ -8,7 +8,7 @@ namespace GitPractice
     {
         public static void Cheer(string team)
         {
-            Console.WriteLine($"{team}!!!! With C# we will conquer the world!");
+            Console.WriteLine($"Cheer for the " + team);
         }
     }
 }
