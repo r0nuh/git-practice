@@ -8,11 +8,7 @@ namespace GitPractice
     {
         public void Greet(string german, string name)
         {
-            german = "Guten Tag, ";
-
-            name = "Herr Müller!";
-
-            Console.WriteLine(german + name);
+            Console.WriteLine($"Greetings for the {exclamation}!gfdsgfds");
             Console.ReadLine();
         }
     }
