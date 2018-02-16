@@ -10,7 +10,7 @@ namespace GitPractice
         {
             age = 31;
 
-            Console.WriteLine(age);
+            Console.WriteLine("Counting the countless {0}", age);
         }
     }
 }
