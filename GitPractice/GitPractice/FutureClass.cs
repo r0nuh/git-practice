@@ -8,7 +8,7 @@ namespace GitPractice
     {
         public void Future(string horoscope)
         {
-            Console.WriteLine(horoscope);
+            Console.WriteLine($"My chinese horoscope is {horoscope}");
         }
     }
 }
