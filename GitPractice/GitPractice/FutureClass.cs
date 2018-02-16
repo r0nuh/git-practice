@@ -6,9 +6,10 @@ namespace GitPractice
 {
     class FutureClass
     {
-        public void Future()
+        public void Future(string horoscope)
         {
-            Console.WriteLine("Sagittarius");
+            horoscope = "Sagittarius";
+            Console.WriteLine(horoscope);
         }
     }
 }
