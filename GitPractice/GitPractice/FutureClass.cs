@@ -8,6 +8,7 @@ namespace GitPractice
     {
         public void Future(string horoscope)
         {
+            horoscope = "Sagittarius";
             Console.WriteLine(horoscope);
         }
     }
