@@ -8,7 +8,7 @@ namespace GitPractice
     {
         public void Future()
         {
-            Console.WriteLine("Capricorn");
+            Console.WriteLine("Sagittarius");
         }
     }
 }
