@@ -10,7 +10,7 @@ namespace GitPractice
         {
             month = 9;
 
-            Console.WriteLine(month);
+            Console.WriteLine($"Counting the countless {month}");
         }
     }
 }
