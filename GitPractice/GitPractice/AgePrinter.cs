@@ -8,7 +8,7 @@ namespace GitPractice
     {
         public void PrintAge(string name, int age)
         {
-            Console.WriteLine($"{name} is {age} years old.");
+            Console.WriteLine($"{name} is {age} years old. GECC!");
         }
     }
 }
