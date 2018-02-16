@@ -6,9 +6,10 @@ namespace GitPractice
 {
     class NyinaC
     {
-        public void Cheer()
+        public void Cheer(string teamName)
         {
-            Console.WriteLine("Hi Chrysocolla Team!");
+            teamName = "Chrysocolla";
+            Console.WriteLine("Hi {0} Team!", teamName);
         }
     }
 }
